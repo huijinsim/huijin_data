@@ -1,0 +1,650 @@
+{
+  "meta": {
+    "title": "심희진 2023~2025년 통합 작업물 유사성 DB",
+    "generated_at": "2026-04-02",
+    "years": [
+      "2023 (1학년)",
+      "2024 (2학년)",
+      "2025 (3학년)"
+    ],
+    "total_clusters": 23,
+    "total_works": 34,
+    "clustering_criteria": [
+      "작업 유형",
+      "사용 툴",
+      "협업 형태",
+      "출력 포맷",
+      "주제 영역"
+    ]
+  },
+  "domain_groups": [
+    {
+      "domain": "타이포그래피",
+      "color": "#1D9E75",
+      "nodes": [
+        "2023-C3",
+        "2024-C2"
+      ],
+      "cross_year_similarity": 0.88,
+      "note": "1학년 포스터 실험 → 2학년 면봉체 독자 폰트 개발로 심화"
+    },
+    {
+      "domain": "편집·출판 디자인",
+      "color": "#7F77DD",
+      "nodes": [
+        "2023-C1",
+        "2023-C7",
+        "2025-C1",
+        "2025-C6"
+      ],
+      "cross_year_similarity": 0.80,
+      "note": "1학년 웨이파인딩·책자 → 3학년 InDesign 중철 제본으로 전문화"
+    },
+    {
+      "domain": "일러스트·캐릭터·서사",
+      "color": "#D4537E",
+      "nodes": [
+        "2023-C4",
+        "2023-C8",
+        "2024-C4",
+        "2025-C3",
+        "2025-C4"
+      ],
+      "cross_year_similarity": 0.75,
+      "note": "전시 일러스트 → 캐릭터 만화 → 스토리보드·창작 원고로 서사 심화"
+    },
+    {
+      "domain": "영상·애니메이션",
+      "color": "#378ADD",
+      "nodes": [
+        "2023-C5",
+        "2024-C5"
+      ],
+      "cross_year_similarity": 0.72,
+      "note": "1학년 팀 영상 → 2학년 스토리보드+AE 개인 작업으로 전환"
+    },
+    {
+      "domain": "브랜드·그래픽 시스템",
+      "color": "#BA7517",
+      "nodes": [
+        "2024-C1",
+        "2024-C6",
+        "2025-C2"
+      ],
+      "cross_year_similarity": 0.68,
+      "note": "2학년 BX 팀 프로젝트 → 3학년 색채 채집 개인 그래픽으로 변화"
+    },
+    {
+      "domain": "커뮤니케이션·복합 미디어",
+      "color": "#D85A30",
+      "nodes": [
+        "2024-C3",
+        "2025-C5",
+        "2025-C7"
+      ],
+      "cross_year_similarity": 0.65,
+      "note": "소책자+영상+일러스트 복합 → 인포비주+인터융합 실험으로 확장"
+    },
+    {
+      "domain": "리서치·글쓰기·기획",
+      "color": "#888780",
+      "nodes": [
+        "2023-C6",
+        "2024-C7",
+        "2025-C1-W3"
+      ],
+      "cross_year_similarity": 0.58,
+      "note": "인문학 글쓰기 → 문화예술교육 → 서적설계 에세이로 이어지는 텍스트 계보"
+    },
+    {
+      "domain": "포트폴리오·아카이빙",
+      "color": "#639922",
+      "nodes": [
+        "2024-C8"
+      ],
+      "cross_year_similarity": null,
+      "note": "2학년에만 집중적으로 나타난 포트폴리오 정리 활동"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "2023-C1",
+      "year": 2023,
+      "label": "웨이파인딩그래픽",
+      "short": "웨이파인딩",
+      "works": 2,
+      "size_mb": 2723,
+      "tools": [
+        "InDesign"
+      ],
+      "collab": "개인",
+      "domain": "편집·출판 디자인"
+    },
+    {
+      "id": "2023-C2",
+      "year": 2023,
+      "label": "2D 파운데이션",
+      "short": "2D 파운데이션",
+      "works": 2,
+      "size_mb": 157,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "기초조형"
+    },
+    {
+      "id": "2023-C3",
+      "year": 2023,
+      "label": "타이포그래피",
+      "short": "타이포(23)",
+      "works": 2,
+      "size_mb": 201,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "타이포그래피"
+    },
+    {
+      "id": "2023-C4",
+      "year": 2023,
+      "label": "일러스트전시",
+      "short": "전시(23)",
+      "works": 1,
+      "size_mb": 435,
+      "tools": [
+        "Illustrator",
+        "AE"
+      ],
+      "collab": "개인",
+      "domain": "일러스트·캐릭터·서사"
+    },
+    {
+      "id": "2023-C5",
+      "year": 2023,
+      "label": "영상디자인팀플",
+      "short": "영상(23)",
+      "works": 1,
+      "size_mb": 4920,
+      "tools": [
+        "영상편집"
+      ],
+      "collab": "팀",
+      "domain": "영상·애니메이션"
+    },
+    {
+      "id": "2023-C6",
+      "year": 2023,
+      "label": "인문학적글쓰기",
+      "short": "글쓰기(23)",
+      "works": 1,
+      "size_mb": 23,
+      "tools": [
+        "Word"
+      ],
+      "collab": "개인",
+      "domain": "리서치·글쓰기·기획"
+    },
+    {
+      "id": "2023-C7",
+      "year": 2023,
+      "label": "4D·5D책자",
+      "short": "책자(23)",
+      "works": 1,
+      "size_mb": 1,
+      "tools": [
+        "편집툴"
+      ],
+      "collab": "개인",
+      "domain": "편집·출판 디자인"
+    },
+    {
+      "id": "2023-C8",
+      "year": 2023,
+      "label": "사부작소모임",
+      "short": "사부작",
+      "works": 1,
+      "size_mb": 2,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "소모임",
+      "domain": "일러스트·캐릭터·서사"
+    },
+    {
+      "id": "2024-C1",
+      "year": 2024,
+      "label": "BX 디자인",
+      "short": "BX(24)",
+      "works": 5,
+      "size_mb": 1206,
+      "tools": [
+        "Illustrator",
+        "PPT"
+      ],
+      "collab": "팀+개인",
+      "domain": "브랜드·그래픽 시스템"
+    },
+    {
+      "id": "2024-C2",
+      "year": 2024,
+      "label": "타이포그래피면봉체",
+      "short": "타이포(24)",
+      "works": 1,
+      "size_mb": 909,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "타이포그래피"
+    },
+    {
+      "id": "2024-C3",
+      "year": 2024,
+      "label": "커뮤니케이션디자인",
+      "short": "커뮤(24)",
+      "works": 3,
+      "size_mb": 790,
+      "tools": [
+        "Illustrator",
+        "AE"
+      ],
+      "collab": "개인",
+      "domain": "커뮤니케이션·복합 미디어"
+    },
+    {
+      "id": "2024-C4",
+      "year": 2024,
+      "label": "일러스트캐릭터",
+      "short": "캐릭터(24)",
+      "works": 2,
+      "size_mb": 20,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "일러스트·캐릭터·서사"
+    },
+    {
+      "id": "2024-C5",
+      "year": 2024,
+      "label": "스토리보드애니메이션",
+      "short": "스토리(24)",
+      "works": 2,
+      "size_mb": 525,
+      "tools": [
+        "AE",
+        "PPT"
+      ],
+      "collab": "개인",
+      "domain": "영상·애니메이션"
+    },
+    {
+      "id": "2024-C6",
+      "year": 2024,
+      "label": "컨버전스디자인",
+      "short": "컨버전스",
+      "works": 1,
+      "size_mb": 0,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "팀",
+      "domain": "브랜드·그래픽 시스템"
+    },
+    {
+      "id": "2024-C7",
+      "year": 2024,
+      "label": "문화예술교육",
+      "short": "문화예술",
+      "works": 1,
+      "size_mb": 95,
+      "tools": [
+        "PPT",
+        "Word"
+      ],
+      "collab": "개인",
+      "domain": "리서치·글쓰기·기획"
+    },
+    {
+      "id": "2024-C8",
+      "year": 2024,
+      "label": "포트폴리오아카이빙",
+      "short": "포트폴리오",
+      "works": 2,
+      "size_mb": 1412,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "포트폴리오·아카이빙"
+    },
+    {
+      "id": "2025-C1",
+      "year": 2025,
+      "label": "커뮤스튜디오편집출판",
+      "short": "편집(25)",
+      "works": 3,
+      "size_mb": 211,
+      "tools": [
+        "InDesign",
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "편집·출판 디자인"
+    },
+    {
+      "id": "2025-C2",
+      "year": 2025,
+      "label": "색채·그래픽컬러칩",
+      "short": "색채(25)",
+      "works": 1,
+      "size_mb": 3760,
+      "tools": [
+        "Illustrator"
+      ],
+      "collab": "개인",
+      "domain": "브랜드·그래픽 시스템"
+    },
+    {
+      "id": "2025-C3",
+      "year": 2025,
+      "label": "스토리보드서사",
+      "short": "스토리(25)",
+      "works": 2,
+      "size_mb": 15,
+      "tools": [
+        "드로잉"
+      ],
+      "collab": "개인",
+      "domain": "일러스트·캐릭터·서사"
+    },
+    {
+      "id": "2025-C4",
+      "year": 2025,
+      "label": "만화·애니기획",
+      "short": "만화(25)",
+      "works": 1,
+      "size_mb": 58,
+      "tools": [
+        "PPT",
+        "Word"
+      ],
+      "collab": "개인",
+      "domain": "일러스트·캐릭터·서사"
+    },
+    {
+      "id": "2025-C5",
+      "year": 2025,
+      "label": "인포비주얼라이제이션",
+      "short": "인포비주",
+      "works": 1,
+      "size_mb": 131,
+      "tools": [
+        "PPT"
+      ],
+      "collab": "개인",
+      "domain": "커뮤니케이션·복합 미디어"
+    },
+    {
+      "id": "2025-C6",
+      "year": 2025,
+      "label": "에디토리알발표",
+      "short": "에디토리알",
+      "works": 1,
+      "size_mb": 28,
+      "tools": [
+        "PPT"
+      ],
+      "collab": "개인",
+      "domain": "편집·출판 디자인"
+    },
+    {
+      "id": "2025-C7",
+      "year": 2025,
+      "label": "인터융합실험",
+      "short": "인터융합",
+      "works": 1,
+      "size_mb": 85,
+      "tools": [
+        "PPT"
+      ],
+      "collab": "미상",
+      "domain": "커뮤니케이션·복합 미디어"
+    }
+  ],
+  "edges": [
+    {
+      "source": "2023-C3",
+      "target": "2024-C2",
+      "weight": 0.88,
+      "type": "cross_year",
+      "note": "타이포그래피 심화 계보"
+    },
+    {
+      "source": "2023-C4",
+      "target": "2024-C4",
+      "weight": 0.80,
+      "type": "cross_year",
+      "note": "일러스트 전시→캐릭터 작업"
+    },
+    {
+      "source": "2023-C4",
+      "target": "2025-C3",
+      "weight": 0.72,
+      "type": "cross_year",
+      "note": "서사 표현의 연속성"
+    },
+    {
+      "source": "2023-C5",
+      "target": "2024-C5",
+      "weight": 0.72,
+      "type": "cross_year",
+      "note": "영상→스토리보드+AE"
+    },
+    {
+      "source": "2023-C1",
+      "target": "2025-C1",
+      "weight": 0.80,
+      "type": "cross_year",
+      "note": "편집디자인 InDesign 계보"
+    },
+    {
+      "source": "2023-C7",
+      "target": "2025-C1",
+      "weight": 0.75,
+      "type": "cross_year",
+      "note": "책자 디자인 심화"
+    },
+    {
+      "source": "2023-C6",
+      "target": "2024-C7",
+      "weight": 0.65,
+      "type": "cross_year",
+      "note": "글쓰기·리서치 계보"
+    },
+    {
+      "source": "2024-C3",
+      "target": "2025-C5",
+      "weight": 0.68,
+      "type": "cross_year",
+      "note": "복합 미디어 커뮤니케이션"
+    },
+    {
+      "source": "2024-C4",
+      "target": "2025-C4",
+      "weight": 0.78,
+      "type": "cross_year",
+      "note": "캐릭터→만화·애니 기획"
+    },
+    {
+      "source": "2024-C5",
+      "target": "2025-C3",
+      "weight": 0.75,
+      "type": "cross_year",
+      "note": "스토리보드 심화"
+    },
+    {
+      "source": "2024-C1",
+      "target": "2025-C2",
+      "weight": 0.62,
+      "type": "cross_year",
+      "note": "브랜드 그래픽→색채 채집"
+    },
+    {
+      "source": "2023-C8",
+      "target": "2025-C4",
+      "weight": 0.60,
+      "type": "cross_year",
+      "note": "소모임 창작→독립 기획"
+    },
+    {
+      "source": "2023-C2",
+      "target": "2023-C3",
+      "weight": 0.70,
+      "type": "same_year"
+    },
+    {
+      "source": "2023-C3",
+      "target": "2023-C4",
+      "weight": 0.60,
+      "type": "same_year"
+    },
+    {
+      "source": "2023-C4",
+      "target": "2023-C5",
+      "weight": 0.72,
+      "type": "same_year"
+    },
+    {
+      "source": "2023-C1",
+      "target": "2023-C2",
+      "weight": 0.62,
+      "type": "same_year"
+    },
+    {
+      "source": "2023-C6",
+      "target": "2023-C7",
+      "weight": 0.55,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C1",
+      "target": "2024-C3",
+      "weight": 0.72,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C1",
+      "target": "2024-C6",
+      "weight": 0.75,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C3",
+      "target": "2024-C4",
+      "weight": 0.75,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C3",
+      "target": "2024-C5",
+      "weight": 0.78,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C2",
+      "target": "2024-C4",
+      "weight": 0.65,
+      "type": "same_year"
+    },
+    {
+      "source": "2024-C4",
+      "target": "2024-C5",
+      "weight": 0.70,
+      "type": "same_year"
+    },
+    {
+      "source": "2025-C1",
+      "target": "2025-C2",
+      "weight": 0.68,
+      "type": "same_year"
+    },
+    {
+      "source": "2025-C3",
+      "target": "2025-C4",
+      "weight": 0.80,
+      "type": "same_year"
+    },
+    {
+      "source": "2025-C1",
+      "target": "2025-C6",
+      "weight": 0.70,
+      "type": "same_year"
+    },
+    {
+      "source": "2025-C5",
+      "target": "2025-C7",
+      "weight": 0.62,
+      "type": "same_year"
+    }
+  ],
+  "cross_year_growth": {
+    "타이포그래피": {
+      "2023": "포스터·실험",
+      "2024": "면봉체 폰트 개발",
+      "2025": "-",
+      "trajectory": "심화·전문화"
+    },
+    "편집출판": {
+      "2023": "웨이파인딩·책자",
+      "2024": "-",
+      "2025": "InDesign 중철 제본",
+      "trajectory": "전문화"
+    },
+    "일러스트서사": {
+      "2023": "전시 출품",
+      "2024": "캐릭터·만화",
+      "2025": "스토리보드·창작 원고",
+      "trajectory": "서사 심화"
+    },
+    "영상애니": {
+      "2023": "팀 영상 제작",
+      "2024": "개인 AE·스토리보드",
+      "2025": "기획 중심",
+      "trajectory": "개인화·기획화"
+    },
+    "브랜드그래픽": {
+      "2023": "-",
+      "2024": "BX 팀 시스템",
+      "2025": "색채 채집 개인",
+      "trajectory": "팀→개인 전환"
+    },
+    "글쓰기기획": {
+      "2023": "인문학 글쓰기",
+      "2024": "문화예술교육",
+      "2025": "서적 설계 에세이",
+      "trajectory": "디자인 이론화"
+    }
+  },
+  "summary": {
+    "total_nodes": 23,
+    "total_edges": 27,
+    "cross_year_edges": 12,
+    "same_year_edges": 15,
+    "strongest_cross_year_link": {
+      "edge": "2023-C3 → 2024-C2",
+      "weight": 0.88,
+      "meaning": "타이포그래피 일관된 심화"
+    },
+    "most_connected_node": "2024-C3 (커뮤니케이션 디자인)",
+    "dominant_trajectory": "개인 작업 비중 증가, 서사·기획 역량 강화, InDesign 전문화",
+    "team_project_trend": {
+      "2023": 1,
+      "2024": 5,
+      "2025": 0
+    },
+    "key_insight": "2023→2024에서 BX팀 프로젝트로 협업 최대화, 2025에서 전부 개인 창작으로 전환. 타이포·편집출판·서사가 3년 관통하는 핵심 축."
+  }
+}
